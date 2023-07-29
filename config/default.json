@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://spoortigg:12345@cluster0.epinww1.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "helloworld",
+  "githubToken": "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"
+}
